@@ -2,7 +2,7 @@
 
 Create a patch:
 
-> python PatchMaker.py -o \<original-file\< -p \<patched-file\> -e \<export-file\>
+> python PatchMaker.py -o \<original-file\> -p \<patched-file\> -e \<export-file\>
 
 Apply a patch:
 
